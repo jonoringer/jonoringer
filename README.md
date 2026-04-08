@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jonoringer
-- 👀 I’m interested in Databases, Machine Learning, and AI  
-- 🌱 I’m currently learning Pytorch
+- 👀 I’m interested in 0 employees companies 
 - 💞️ I’m looking to collaborate on building enterprise versions of open source projects
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/shutterstock/
 
